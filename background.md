@@ -1,0 +1,17 @@
+
+- https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-010.html 
+    - https://grants.nih.gov/grants/guide/pa-files/PAR-25-078.html  this could be the new one to submit through 
+    - Should submit this - use the idea from UVA - except broader - general FHIR based open source patient registry 
+    - The combined budget for direct costs for the two-year project period may not exceed $300,000. No more than $200,000 direct costs may be requested in any single year.
+        - Letters of support: 
+            - UVA - 
+            - Stonybrook ? - David C. ? 
+        - Support docs: 
+            - Grant: https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-24-010.html 
+            - Strategic Data Science Plan: https://datascience.nih.gov/nih-strategic-plan-data-science 
+            - Data Science Best Practices: https://datascience.nih.gov/tools-and-analytics/best-practices-for-sharing-research-software-faq 
+            - Sample R03s: 
+                - https://www.niaid.nih.gov/grants-contracts/sample-applications#r03 
+                - CA: https://healthcaredelivery.cancer.gov/funding/sample_grants/FINAL%20-%20GI_1R03CA216174-01A1.pdf 
+                - CA: https://healthcaredelivery.cancer.gov/funding/sample_grants/FINAL%20-%201R03CA223725-01.pdf 
+                - https://www.genome.gov/sites/default/files/media/files/2023-11/cwik_r03_app.pdf 

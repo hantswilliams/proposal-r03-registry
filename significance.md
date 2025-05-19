@@ -1,0 +1,2 @@
+- discuss cancer registries 
+- should look at NIH reporter and figure out where, how many registries have been supported; talk about that this could be a pathway for SEER and other larger regestries as well 
